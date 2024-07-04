@@ -6,3 +6,5 @@
 more changes
 
 bugfix
+
+next change
